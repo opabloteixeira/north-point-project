@@ -1,0 +1,14 @@
+{
+  "name": "hotel-paraiso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "author": "Pablo Teixeira",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
